@@ -1,0 +1,15 @@
+{
+  "Theme": [
+    {
+      "ThemeManufacturer": "超级彗星技术",
+      "UniThemeVersion": "v1.1.0",
+      "Color1": "#FF0080FF",
+      "Color2": "#FF00FFFF",
+      "BackgroundImage": "",
+      "TextboxImage": "",
+      "BackgroundTransparency": 0.5,
+      "TextboxTransparency": 1.0,
+      "GreyTextboxLayerTransparency": 1.0
+    }
+  ]
+}

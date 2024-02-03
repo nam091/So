@@ -1,0 +1,241 @@
+PID,Name,Command line
+0,System Idle Process,
+4,System,
+8,lsass.exe,
+148,Registry,
+608,smss.exe,
+636,services.exe,
+844,svchost.exe,
+852,csrss.exe,
+856,ListaryHookHost32.exe,C:\Program Files\Listary\ListaryHookHost32.exe
+940,csrss.exe,
+964,wininit.exe,
+1008,winlogon.exe,
+1020,svchost.exe,C:\Windows\system32\svchost.exe -k UnistackSvcGroup
+1060,svchost.exe,
+1124,msedge.exe,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe --no-startup-window /prefetch:5
+1132,svchost.exe,
+1160,fontdrvhost.exe,
+1168,fontdrvhost.exe,
+1176,WUDFHost.exe,
+1308,svchost.exe,
+1360,svchost.exe,
+1468,dwm.exe,
+1480,svchost.exe,
+1544,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe --type=crashpad-handler --user-data-dir=C:\Users\Knowm\AppData\Local\Microsoft\Edge\User Data /prefetch:7 --monitor-self-annotation=ptype=crashpad-handler --database=C:\Users\Knowm\AppData\Local\Microsoft\Edge\User Data\Crashpad --annotation=IsOfficialBuild=1 --annotation=channel= --annotation=chromium-version=114.0.5735.134 --annotation=exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe --annotation=plat=Win64 --annotation=prod=Microsoft Edge --annotation=ver=114.0.1823.51 --initial-client-data=0x188,0x18c,0x190,0x160,0x16c,0x7ffe6a9c4210,0x7ffe6a9c4220,0x7ffe6a9c4230"
+1576,svchost.exe,
+1616,igfxCUIService.exe,
+1620,svchost.exe,
+1648,svchost.exe,
+1672,svchost.exe,
+1704,svchost.exe,
+1720,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe --type=renderer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=80 --time-ticks-at-unix-epoch=-1687217987996977 --launch-time-ticks=3484365287 --mojo-platform-channel-handle=11932 --field-trial-handle=2040,i,9906486223435421796,2049028563285476950,262144 /prefetch:1"
+1732,svchost.exe,
+1760,svchost.exe,
+1864,svchost.exe,
+1932,svchost.exe,
+1940,svchost.exe,
+1992,svchost.exe,
+2032,svchost.exe,
+2208,python3.11.exe,C:\Users\Knowm\AppData\Local\Microsoft\WindowsApps\python.exe -u c:\Users\Knowm\Downloads\import psutil.py
+2232,svchost.exe,
+2260,AppHelperCap.exe,
+2268,NetworkCap.exe,
+2276,SysInfoCap.exe,
+2288,DiagsCap.exe,
+2328,svchost.exe,
+2392,Code.exe,C:\Users\Knowm\AppData\Local\Programs\Microsoft VS Code\Code.exe --ms-enable-electron-run-as-node c:\Users\Knowm\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\json-language-features\server\dist\node\jsonServerMain --node-ipc --clientProcessId=3676
+2484,svchost.exe,
+2560,TouchpointAnalyticsClientService.exe,
+2696,svchost.exe,
+2744,svchost.exe,
+2784,svchost.exe,
+2804,svchost.exe,
+2816,svchost.exe,
+2852,powershell.exe,powershell.exe -NoProfile -ExecutionPolicy RemoteSigned -NoLogo -NoExit -Command -
+2960,svchost.exe,
+2968,svchost.exe,
+3012,svchost.exe,
+3080,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe --type=gpu-process --gpu-preferences=WAAAAAAAAADgAAAMAAAAAAAAAAAAAAAAAABgAAAAAAA4AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAAYAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --mojo-platform-channel-handle=1948 --field-trial-handle=2040,i,9906486223435421796,2049028563285476950,262144 /prefetch:2"
+3240,svchost.exe,
+3272,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe --type=renderer --extension-process --renderer-sub-type=extension --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=86 --time-ticks-at-unix-epoch=-1687217987996977 --launch-time-ticks=3480541000 --mojo-platform-channel-handle=9908 --field-trial-handle=2040,i,9906486223435421796,2049028563285476950,262144 /prefetch:1"
+3320,conhost.exe,\\?\C:\Windows\system32\conhost.exe --headless --width 27 --height 34 --signal 0x5bc --server 0x5b0
+3380,Code.exe,"C:\Users\Knowm\AppData\Local\Programs\Microsoft VS Code\Code.exe --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --user-data-dir=C:\Users\Knowm\AppData\Roaming\Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --streaming-schemes --mojo-platform-channel-handle=3968 --field-trial-handle=1628,i,16482092698454918852,13184208610041647302,131072 --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess,WinRetrieveSuggestionsOnlyOnDemand /prefetch:8"
+3400,svchost.exe,
+3404,svchost.exe,
+3412,svchost.exe,
+3536,unsecapp.exe,
+3652,WmiPrvSE.exe,
+3676,Code.exe,"C:\Users\Knowm\AppData\Local\Programs\Microsoft VS Code\Code.exe --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --inspect-port=0 --user-data-dir=C:\Users\Knowm\AppData\Roaming\Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --streaming-schemes --mojo-platform-channel-handle=3308 --field-trial-handle=1628,i,16482092698454918852,13184208610041647302,131072 --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess,WinRetrieveSuggestionsOnlyOnDemand /prefetch:8"
+3752,SynTPEnhService.exe,
+3836,svchost.exe,
+3860,svchost.exe,
+3868,svchost.exe,
+3904,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --mojo-platform-channel-handle=2300 --field-trial-handle=2040,i,9906486223435421796,2049028563285476950,262144 /prefetch:3"
+3920,svchost.exe,
+3928,svchost.exe,
+3968,explorer.exe,C:\Windows\Explorer.EXE
+3976,MemCompression,
+4028,SearchFilterHost.exe,
+4172,conhost.exe,\??\C:\Windows\system32\conhost.exe 0x4
+4184,conhost.exe,\??\C:\Windows\system32\conhost.exe 0x4
+4236,svchost.exe,
+4312,Microsoft.Flow.RPA.LogShipper.exe,
+4356,OneApp.IGCC.WinService.exe,
+4452,Code.exe,C:\Users\Knowm\AppData\Local\Programs\Microsoft VS Code\Code.exe --ms-enable-electron-run-as-node c:\Users\Knowm\.vscode\extensions\ms-python.vscode-pylance-2023.6.20\dist\server.bundle.js --cancellationReceive=file:101d208482a2ab280e596243904fdf9c328da7e193 --node-ipc --clientProcessId=3676
+4520,svchost.exe,
+4548,svchost.exe,
+4596,spoolsv.exe,
+4620,svchost.exe,
+4680,python3.11.exe,c:\Users\Knowm\AppData\Local\Microsoft\WindowsApps\python3.11.exe c:\Users\Knowm\.vscode\extensions\ms-python.isort-2022.8.0\bundled\tool\runner.py
+4716,IntelCpHeciSvc.exe,
+4784,wlanext.exe,
+4792,Listary.Service.exe,
+4816,conhost.exe,\??\C:\Windows\system32\conhost.exe 0x4
+4824,conhost.exe,
+4828,Microsoft.Flow.RPA.LauncherService.exe,
+4936,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe --type=renderer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=70 --time-ticks-at-unix-epoch=-1687217987996977 --launch-time-ticks=3485987985 --mojo-platform-channel-handle=10872 --field-trial-handle=2040,i,9906486223435421796,2049028563285476950,262144 /prefetch:1"
+4988,XtuService.exe,
+5032,ibtsiva.exe,
+5104,svchost.exe,
+5160,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe --type=renderer --extension-process --renderer-sub-type=extension --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=18 --time-ticks-at-unix-epoch=-1687217987996977 --launch-time-ticks=1212340851 --mojo-platform-channel-handle=5600 --field-trial-handle=2040,i,9906486223435421796,2049028563285476950,262144 /prefetch:1"
+5216,Microsoft.Flow.RPA.UpdateService.exe,
+5244,warp-svc.exe,
+5292,svchost.exe,
+5308,sihost.exe,sihost.exe
+5332,svchost.exe,
+5336,svchost.exe,C:\Windows\system32\svchost.exe -k UnistackSvcGroup -s CDPUserSvc
+5372,svchost.exe,C:\Windows\system32\svchost.exe -k LocalSystemNetworkRestricted -p -s webthreatdefusersvc
+5384,svchost.exe,
+5396,igfxEM.exe,C:\Windows\System32\DriverStore\FileRepository\cui_dch.inf_amd64_5207db0559876a61\igfxEM.exe
+5408,svchost.exe,C:\Windows\system32\svchost.exe -k UnistackSvcGroup -s WpnUserService
+5496,taskhostw.exe,taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E}
+5560,SearchProtocolHost.exe,
+5596,svchost.exe,
+5724,svchost.exe,
+5736,svchost.exe,
+5744,svchost.exe,
+5776,svchost.exe,
+5820,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=service --mojo-platform-channel-handle=2608 --field-trial-handle=2040,i,9906486223435421796,2049028563285476950,262144 /prefetch:8"
+5992,svchost.exe,
+6016,svchost.exe,
+6080,svchost.exe,
+6108,svchost.exe,
+6216,Code.exe,"C:\Users\Knowm\AppData\Local\Programs\Microsoft VS Code\Code.exe --type=gpu-process --user-data-dir=C:\Users\Knowm\AppData\Roaming\Code --gpu-preferences=UAAAAAAAAADgAAAYAAAAAAAAAAAAAAAAAABgAAAAAAAwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAEgAAAAAAAAASAAAAAAAAAAYAAAAAgAAABAAAAAAAAAAGAAAAAAAAAAQAAAAAAAAAAAAAAAOAAAAEAAAAAAAAAABAAAADgAAAAgAAAAAAAAACAAAAAAAAAA= --mojo-platform-channel-handle=1672 --field-trial-handle=1628,i,16482092698454918852,13184208610041647302,131072 --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess,WinRetrieveSuggestionsOnlyOnDemand /prefetch:2"
+6260,Comet.exe,D:\Exploit\Comet3\Comet.exe
+6264,Everything.exe,
+6268,PAD.Console.Host.exe,C:\Program Files (x86)\Power Automate Desktop\PAD.Console.Host.exe
+6364,svchost.exe,
+6372,Taskmgr.exe,C:\Windows\system32\taskmgr.exe /4
+6388,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe --type=renderer --extension-process --renderer-sub-type=extension --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=10 --time-ticks-at-unix-epoch=-1687217987996977 --launch-time-ticks=1212434244 --mojo-platform-channel-handle=6844 --field-trial-handle=2040,i,9906486223435421796,2049028563285476950,262144 /prefetch:1"
+6396,dllhost.exe,C:\Windows\system32\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5}
+6444,svchost.exe,
+6452,svchost.exe,
+6460,LanWlanWwanSwitchingServiceUWP.exe,
+6492,svchost.exe,
+6584,svchost.exe,
+6736,IDMIntegrator64.exe,C:\Program Files (x86)\Internet Download Manager\IDMIntegrator64.exe -runcm
+6748,dllhost.exe,C:\Windows\system32\DllHost.exe /Processid:{973D20D7-562D-44B9-B70B-5A0F49CCDF3F}
+6836,svchost.exe,C:\Windows\system32\svchost.exe -k ClipboardSvcGroup -p -s cbdhsvc
+6848,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe --type=renderer --extension-process --renderer-sub-type=extension --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=44 --time-ticks-at-unix-epoch=-1687217987996977 --launch-time-ticks=3480480304 --mojo-platform-channel-handle=9620 --field-trial-handle=2040,i,9906486223435421796,2049028563285476950,262144 /prefetch:1"
+6864,svchost.exe,
+6896,IntelCpHDCPSvc.exe,
+6916,Code.exe,"C:\Users\Knowm\AppData\Local\Programs\Microsoft VS Code\Code.exe --type=renderer --user-data-dir=C:\Users\Knowm\AppData\Roaming\Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --streaming-schemes --app-user-model-id=Microsoft.VisualStudioCode --app-path=C:\Users\Knowm\AppData\Local\Programs\Microsoft VS Code\resources\app --enable-sandbox --enable-blink-features=HighlightAPI,WebAppWindowControlsOverlay --first-renderer-process --lang=en-US --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=4 --time-ticks-at-unix-epoch=-1687217987997659 --launch-time-ticks=336904086 --mojo-platform-channel-handle=2692 --field-trial-handle=1628,i,16482092698454918852,13184208610041647302,131072 --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess,WinRetrieveSuggestionsOnlyOnDemand --vscode-window-config=vscode:8cbdfefe-4343-4e2d-8130-eb3d9fe27c46 /prefetch:1"
+6944,Code.exe,C:\Users\Knowm\AppData\Local\Programs\Microsoft VS Code\Code.exe --ms-enable-electron-run-as-node c:\Users\Knowm\.vscode\extensions\visualstudioexptteam.intellicode-api-usage-examples-0.2.7\dist\server\server.js --node-ipc --clientProcessId=3676
+6956,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe --type=renderer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=67 --time-ticks-at-unix-epoch=-1687217987996977 --launch-time-ticks=3483660779 --mojo-platform-channel-handle=11584 --field-trial-handle=2040,i,9906486223435421796,2049028563285476950,262144 /prefetch:1"
+6968,FMService64.exe,
+7036,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe --type=renderer --extension-process --renderer-sub-type=extension --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=42 --time-ticks-at-unix-epoch=-1687217987996977 --launch-time-ticks=3480428024 --mojo-platform-channel-handle=7508 --field-trial-handle=2040,i,9906486223435421796,2049028563285476950,262144 /prefetch:1"
+7040,cmd.exe,C:\Windows\system32\cmd.exe /d /c C:\Program Files (x86)\Power Automate Desktop\PAD.BrowserNativeMessageHost.exe chrome-extension://kagpabjoboikccfdghpdlaaopmgpgfdc/ --parent-window=0 < \\.\pipe\LOCAL\edge.nativeMessaging.in.9cd75e205c3b1261 > \\.\pipe\LOCAL\edge.nativeMessaging.out.9cd75e205c3b1261
+7116,esif_uf.exe,
+7124,AdobeUpdateService.exe,
+7132,svchost.exe,
+7180,WMIRegistrationService.exe,
+7196,MsMpEng.exe,
+7216,RstMwService.exe,
+7224,HotKeyServiceUWP.exe,
+7232,SECOMN64.exe,
+7252,RtkAudUService64.exe,
+7268,AGMService.exe,
+7376,OfficeClickToRun.exe,
+7384,AGSService.exe,
+7696,PowerToys.ColorPickerUI.exe,C:\Program Files\PowerToys\modules\ColorPicker\PowerToys.ColorPickerUI.exe 9004
+7784,SynTPEnh.exe,C:\Windows\System32\SynTPEnh.exe
+7792,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe --type=renderer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=88 --time-ticks-at-unix-epoch=-1687217987996977 --launch-time-ticks=3481848685 --mojo-platform-channel-handle=9740 --field-trial-handle=2040,i,9906486223435421796,2049028563285476950,262144 /prefetch:1"
+7980,jhi_service.exe,
+8588,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe --type=renderer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=96 --time-ticks-at-unix-epoch=-1687217987996977 --launch-time-ticks=3485272713 --mojo-platform-channel-handle=12876 --field-trial-handle=2040,i,9906486223435421796,2049028563285476950,262144 /prefetch:1"
+8652,RtkAudUService64.exe,
+8768,svchost.exe,
+8832,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe --type=renderer --extension-process --renderer-sub-type=extension --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=9 --time-ticks-at-unix-epoch=-1687217987996977 --launch-time-ticks=1212271753 --mojo-platform-channel-handle=5952 --field-trial-handle=2040,i,9906486223435421796,2049028563285476950,262144 /prefetch:1"
+8860,Code.exe,C:\Users\Knowm\AppData\Local\Programs\Microsoft VS Code\Code.exe --ms-enable-electron-run-as-node c:\Users\Knowm\.vscode\extensions\streetsidesoftware.code-spell-checker-2.20.5\packages\_server\dist\main.js --node-ipc --clientProcessId=3676
+8960,PAD.BrowserNativeMessageHost.exe,C:\Program Files (x86)\Power Automate Desktop\PAD.BrowserNativeMessageHost.exe chrome-extension://kagpabjoboikccfdghpdlaaopmgpgfdc/ --parent-window=0
+9004,PowerToys.exe,C:\Program Files\PowerToys\PowerToys.exe
+9144,SECOCL64.exe,"/exit-mutex-guid={8222398A-BE7B-4BD2-88C0-39792BBEE333} /host-pipe-name=\\.\pipe\{474FC89D-38F9-46EB-B60D-13856441C928} /endpoint-id={0.0.0.00000000}.{61985394-0b83-42ed-be10-ddd91b6e2598},{0.0.0.00000000}.{a05e2ecb-18a3-44aa-a4cc-c80b227c9e13}"
+9232,conhost.exe,\??\C:\Windows\system32\conhost.exe 0x4
+9252,UIFlowService.exe,
+9288,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe --type=renderer --extension-process --renderer-sub-type=extension --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --time-ticks-at-unix-epoch=-1687217987996977 --launch-time-ticks=1212127196 --mojo-platform-channel-handle=5504 --field-trial-handle=2040,i,9906486223435421796,2049028563285476950,262144 /prefetch:1"
+9376,svchost.exe,C:\Windows\system32\svchost.exe -k UdkSvcGroup -s UdkUserSvc
+9452,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe --type=renderer --extension-process --renderer-sub-type=extension --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=40 --time-ticks-at-unix-epoch=-1687217987996977 --launch-time-ticks=3480090402 --mojo-platform-channel-handle=8128 --field-trial-handle=2040,i,9906486223435421796,2049028563285476950,262144 /prefetch:1"
+9480,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding
+9524,SearchHost.exe,C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe -ServerName:CortanaUI.AppXstmwaab17q5s3y22tp6apqz7a45vwv65.mca
+9716,Widgets.exe,C:\Program Files\WindowsApps\MicrosoftWindows.Client.WebExperience_423.11600.0.0_x64__cw5n1h2txyewy\Dashboard\Widgets.exe -ServerName:Microsoft.Windows.DashboardServer
+9756,SecurityHealthService.exe,
+9872,SgrmBroker.exe,
+9892,StartMenuExperienceHost.exe,C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe -ServerName:App.AppXywbrabmsek0gm3tkwpr5kwzbs55tkqay.mca
+9896,SecurityHealthSystray.exe,C:\Windows\System32\SecurityHealthSystray.exe
+9924,Code.exe,"C:\Users\Knowm\AppData\Local\Programs\Microsoft VS Code\Code.exe --type=crashpad-handler --user-data-dir=C:\Users\Knowm\AppData\Roaming\Code /prefetch:7 --no-rate-limit --monitor-self-annotation=ptype=crashpad-handler --database=C:\Users\Knowm\AppData\Roaming\Code\Crashpad --url=appcenter://code?aid=a4e3233c-699c-46ec-b4f4-9c2a77254662&uid=3f6fe471-2744-4b63-a5c7-de4349e6c4dd&iid=3f6fe471-2744-4b63-a5c7-de4349e6c4dd&sid=3f6fe471-2744-4b63-a5c7-de4349e6c4dd --annotation=IsOfficialBuild=1 --annotation=_companyName=Microsoft --annotation=_productName=VSCode --annotation=_version=1.79.2 --annotation=exe=C:\Users\Knowm\AppData\Local\Programs\Microsoft VS Code\Code.exe --annotation=plat=Win64 --annotation=prod=Electron --annotation=ver=22.5.7 --initial-client-data=0x424,0x428,0x42c,0x420,0x430,0x7ff6c3299a58,0x7ff6c3299a68,0x7ff6c3299a78"
+10036,SearchIndexer.exe,
+10132,Listary.exe,C:\Program Files\Listary\Listary.exe -startup
+10152,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding
+10184,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding
+10400,audiodg.exe,C:\Windows\system32\AUDIODG.EXE 0x0000000000000488
+10452,EVKey32.exe,C:\Users\Knowm\Downloads\EVKey\EVKey32.exe -r
+10572,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe --type=renderer --instant-process --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=66 --time-ticks-at-unix-epoch=-1687217987996977 --launch-time-ticks=3542404506 --mojo-platform-channel-handle=8936 --field-trial-handle=2040,i,9906486223435421796,2049028563285476950,262144 /prefetch:1"
+10580,PowerToys.FancyZones.exe,C:\Program Files\PowerToys\modules\FancyZones\PowerToys.FancyZones.exe 9004
+10784,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe --type=renderer --extension-process --renderer-sub-type=extension --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=101 --time-ticks-at-unix-epoch=-1687217987996977 --launch-time-ticks=3546071183 --mojo-platform-channel-handle=7924 --field-trial-handle=2040,i,9906486223435421796,2049028563285476950,262144 /prefetch:1"
+11052,Code.exe,"C:\Users\Knowm\AppData\Local\Programs\Microsoft VS Code\Code.exe --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --nolazy --inspect=null --user-data-dir=C:\Users\Knowm\AppData\Roaming\Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --streaming-schemes --mojo-platform-channel-handle=3088 --field-trial-handle=1628,i,16482092698454918852,13184208610041647302,131072 --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess,WinRetrieveSuggestionsOnlyOnDemand /prefetch:8"
+11076,ctfmon.exe,ctfmon.exe
+11080,PowerToys.KeyboardManagerEngine.exe,C:\Program Files\PowerToys\modules\KeyboardManager\KeyboardManagerEngine\PowerToys.KeyboardManagerEngine.exe 9004
+11148,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe --type=renderer --extension-process --renderer-sub-type=extension --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=43 --time-ticks-at-unix-epoch=-1687217987996977 --launch-time-ticks=3480451007 --mojo-platform-channel-handle=9412 --field-trial-handle=2040,i,9906486223435421796,2049028563285476950,262144 /prefetch:1"
+11396,svchost.exe,
+11548,PowerToys.AlwaysOnTop.exe,C:\Program Files\PowerToys\modules\AlwaysOnTop\PowerToys.AlwaysOnTop.exe 9004
+11664,BridgeCommunication.exe,C:\Windows\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_a2e2005241021c2d\x64\BridgeCommunication.exe 3028d889-f012-42ba-97f7-e3a374b32be7 Global\0d5a1d65-1105-4aaf-9841-88c990db80e3 2380
+11684,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe --type=utility --utility-sub-type=edge_search_indexer.mojom.SearchIndexerInterfaceBroker --lang=en-US --service-sandbox-type=search_indexer --message-loop-type-ui --mojo-platform-channel-handle=11004 --field-trial-handle=2040,i,9906486223435421796,2049028563285476950,262144 /prefetch:8"
+11712,PowerToys.Awake.exe,modules\Awake\PowerToys.Awake.exe --use-pt-config --pid 9004
+11732,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService -p -s NPSMSvc
+11772,PowerToys.PowerOCR.exe,C:\Program Files\PowerToys\modules\PowerOCR\PowerToys.PowerOCR.exe 9004
+11776,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe --type=renderer --extension-process --renderer-sub-type=extension --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=8 --time-ticks-at-unix-epoch=-1687217987996977 --launch-time-ticks=1212171754 --mojo-platform-channel-handle=5708 --field-trial-handle=2040,i,9906486223435421796,2049028563285476950,262144 /prefetch:1"
+11848,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe --type=renderer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=64 --time-ticks-at-unix-epoch=-1687217987996977 --launch-time-ticks=3487479907 --mojo-platform-channel-handle=12484 --field-trial-handle=2040,i,9906486223435421796,2049028563285476950,262144 /prefetch:1"
+11924,svchost.exe,
+12064,RtkAudUService64.exe,C:\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_31adae5d99f8cd09\RtkAudUService64.exe -background
+12080,OneDrive.exe,C:\Program Files\Microsoft OneDrive\OneDrive.exe /client=Personal /background
+12104,NisSrv.exe,
+12416,conhost.exe,\??\C:\Windows\system32\conhost.exe 0x4
+12480,TextInputHost.exe,C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe -ServerName:InputApp.AppXjd5de1g66v206tj52m9d0dtpppx4cgpn.mca
+12496,Everything.exe,C:\Program Files\Everything\Everything.exe -startup
+12768,OneDrive.exe,C:\Program Files\Microsoft OneDrive\OneDrive.exe /background
+12788,svchost.exe,
+12804,IDMan.exe,C:\Program Files (x86)\Internet Download Manager\IDMan.exe /onboot
+12944,python3.11.exe,c:\Users\Knowm\AppData\Local\Microsoft\WindowsApps\python3.11.exe c:\Users\Knowm\.vscode\extensions\ms-python.isort-2022.8.0\bundled\tool\server.py
+12964,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe --type=renderer --extension-process --renderer-sub-type=extension --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=6 --time-ticks-at-unix-epoch=-1687217987996977 --launch-time-ticks=1212053221 --mojo-platform-channel-handle=4856 --field-trial-handle=2040,i,9906486223435421796,2049028563285476950,262144 /prefetch:1"
+12988,ListaryHookHost64.exe,C:\Program Files\Listary\ListaryHookHost64.exe
+13304,FileSyncHelper.exe,
+13316,PAD.BrowserNativeMessageHost.exe,C:\Program Files (x86)\Power Automate Desktop\PAD.BrowserNativeMessageHost.exe chrome-extension://kagpabjoboikccfdghpdlaaopmgpgfdc/ --parent-window=0
+13444,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe --type=renderer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=78 --time-ticks-at-unix-epoch=-1687217987996977 --launch-time-ticks=3484383843 --mojo-platform-channel-handle=12108 --field-trial-handle=2040,i,9906486223435421796,2049028563285476950,262144 /prefetch:1"
+13456,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe --type=renderer --extension-process --renderer-sub-type=extension --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --time-ticks-at-unix-epoch=-1687217987996977 --launch-time-ticks=1211877993 --mojo-platform-channel-handle=4252 --field-trial-handle=2040,i,9906486223435421796,2049028563285476950,262144 /prefetch:1"
+13476,Code.exe,C:\Users\Knowm\AppData\Local\Programs\Microsoft VS Code\Code.exe
+13484,WmiPrvSE.exe,
+13576,powershell.exe,"C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -noexit -command try { . ""c:\Users\Knowm\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\contrib\terminal\browser\media\shellIntegration.ps1"" } catch {}"
+13668,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding
+14004,WidgetService.exe,C:\Program Files\WindowsApps\MicrosoftWindows.Client.WebExperience_423.11600.0.0_x64__cw5n1h2txyewy\Dashboard\widgetservice.exe -RegisterProcessAsComServer -Embedding
+14024,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe --type=renderer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=81 --time-ticks-at-unix-epoch=-1687217987996977 --launch-time-ticks=3480271591 --mojo-platform-channel-handle=7776 --field-trial-handle=2040,i,9906486223435421796,2049028563285476950,262144 /prefetch:1"
+14084,Code.exe,"C:\Users\Knowm\AppData\Local\Programs\Microsoft VS Code\Code.exe --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --user-data-dir=C:\Users\Knowm\AppData\Roaming\Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --streaming-schemes --mojo-platform-channel-handle=3940 --field-trial-handle=1628,i,16482092698454918852,13184208610041647302,131072 --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess,WinRetrieveSuggestionsOnlyOnDemand /prefetch:8"
+14272,conhost.exe,\\?\C:\Windows\system32\conhost.exe --headless --width 58 --height 34 --signal 0x488 --server 0x514
+14300,Code.exe,"C:\Users\Knowm\AppData\Local\Programs\Microsoft VS Code\Code.exe --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --user-data-dir=C:\Users\Knowm\AppData\Roaming\Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --streaming-schemes --mojo-platform-channel-handle=2012 --field-trial-handle=1628,i,16482092698454918852,13184208610041647302,131072 --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess,WinRetrieveSuggestionsOnlyOnDemand /prefetch:8"
+14384,ApplicationFrameHost.exe,C:\Windows\system32\ApplicationFrameHost.exe -Embedding
+14420,cmd.exe,C:\Windows\system32\cmd.exe /d /c C:\Program Files (x86)\Power Automate Desktop\PAD.BrowserNativeMessageHost.exe chrome-extension://kagpabjoboikccfdghpdlaaopmgpgfdc/ --parent-window=0 < \\.\pipe\LOCAL\edge.nativeMessaging.in.f93370eef0d3dae0 > \\.\pipe\LOCAL\edge.nativeMessaging.out.f93370eef0d3dae0
+14728,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe --type=renderer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=49 --time-ticks-at-unix-epoch=-1687217987996977 --launch-time-ticks=3480078681 --mojo-platform-channel-handle=7880 --field-trial-handle=2040,i,9906486223435421796,2049028563285476950,262144 /prefetch:1"
+14800,FileCoAuth.exe,C:\Program Files\Microsoft OneDrive\23.114.0530.0001\FileCoAuth.exe -Embedding
+14844,svchost.exe,
+14892,powershell.exe,"C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -noexit -command try { . ""c:\Users\Knowm\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\contrib\terminal\browser\media\shellIntegration.ps1"" } catch {}"
+14928,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe --type=renderer --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=79 --time-ticks-at-unix-epoch=-1687217987996977 --launch-time-ticks=3484375032 --mojo-platform-channel-handle=11980 --field-trial-handle=2040,i,9906486223435421796,2049028563285476950,262144 /prefetch:1"
+15280,msedge.exe,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe --type=renderer --extension-process --renderer-sub-type=extension --lang=en-US --js-flags=--ms-user-locale= --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=41 --time-ticks-at-unix-epoch=-1687217987996977 --launch-time-ticks=3480324316 --mojo-platform-channel-handle=8572 --field-trial-handle=2040,i,9906486223435421796,2049028563285476950,262144 /prefetch:1"
