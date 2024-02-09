@@ -6,8 +6,6 @@ def pal(num):
     p = num.copy()
     center = ""
     nums[length // 2 + 1:] = nums[:length // 2][::-1]
-        
-        
 
 t = int(input())
 num_list = []
